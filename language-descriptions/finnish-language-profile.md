@@ -17,7 +17,7 @@ comments: []
 
 ## General information
 
-Finnish (Suomen kieli / Suomi) is the official language of Finland and an official minority language in Sweden. It is also the mother tongue of people of Finnish ancestry living in other neighbouring countries (e.g. Norway, Russia). Because of immigration since the 19th century, native speakers of Finnish also live in Australia, Canada, and the United States. Of the approximately 6 million speakers worldwide, 4.5 million live in Finland.
+Finnish (*Suomen kieli / Suomi*) is the official language of Finland and an official minority language in Sweden. It is also the mother tongue of people of Finnish ancestry living in other neighbouring countries (e.g. Norway, Russia). Because of immigration since the 19th century, native speakers of Finnish also live in Australia, Canada, and the United States. Of the approximately 6 million speakers worldwide, 4.5 million live in Finland.
 
 Linguists classify Finnish as an Uralic language and linguistic relatives include Estonian, Hungarian, Northern Saami, and Nenets. Most such languages are spoken in northern Eurasia.
 
@@ -33,7 +33,7 @@ The modern standard language is based on standardization efforts that started in
 
 There also exist Kven and Meänkieli which are defined as minority languages in Norway and Sweden respectively. For political purposes they are considered separate languages but in dialectological studies they are part of the chain comprising the Far Northern dialects (or broadly speaking the Western dialects). To a lesser extent, the treatment of Ingrian and Karelian as Finnish dialects is otherwise similarly disputed. Mutual intelligibility of Ingrian and Karelian on one hand, and standard Finnish on the other is somewhat lower than in the cases of Kven and Meänkieli with standard Finnish. Ingrian is part of the chain of Southeastern Finnish dialects while Karelian is on the continuum of Savonian dialects. Both Southeastern and Savonian dialects are broadly classifiable as Eastern Finnish dialects.
 
-In modern Finnish there is a colloquial register (~ _puhekieli_ “spoken language”) and a formal one (~ _yleiskieli_ “standard language”) as taught in school. It is somewhat similar to the distinction between colloquial Czech and standard Czech. Standard Finnish occurs mainly in print and formal situations and its prescriptions demonstrate grammatical patterns or distinctions that are rarely used if not absent from spoken Finnish and reflect an earlier period when codifiers strove to create a literary language. Among other characteristics, words in spoken Finnish tend to be shorter than their equivalents in the standard language thanks to assimilation or omission of certain endings or unstressed syllables. For someone familiar with Estonian, spoken Finnish rather than standard Finnish may appear more similar to Estonian.
+In modern Finnish there is a colloquial register (~ *puhekieli* “spoken language”) and a formal one (~ *yleiskieli* “standard language”) as taught in school. It is somewhat similar to the distinction between colloquial Czech and standard Czech. Standard Finnish occurs mainly in print and formal situations and its prescriptions demonstrate grammatical patterns or distinctions that are rarely used if not absent from spoken Finnish and reflect an earlier period when codifiers strove to create a literary language. Among other characteristics, words in spoken Finnish tend to be shorter than their equivalents in the standard language thanks to assimilation or omission of certain endings or unstressed syllables. For someone familiar with Estonian, spoken Finnish rather than standard Finnish may appear more similar to Estonian.
 
 ## Learning with a background in other languages
 
@@ -64,30 +64,30 @@ Fred Karlsson's comments on difficulty may also be relevant.
 >
 > Case endings are usually added to nouns, adjectives, pronouns and numerals (all together called NOMINALS), but they may also be added to verbs.
 >
-> - _Minä lähden Jyväskylä/än._ I'm going to Jyväskylä.
-> - _Minä lähden kävele/mä/än._ I'm going 'walking' (= for a walk).
+> - *Minä lähden Jyväskylä/än.* I'm going to Jyväskylä.
+> - *Minä lähden kävele/mä/än.* I'm going 'walking' (= for a walk).
 >
-> The verb form kävelemään literally means 'into walking', just as Jyväskylään means 'into (the town of) Jyväskylä'. Both forms contain the illative case ending of -än meaning 'into'. When complex sentences are formed, Finnish makes more use than English of such inflected non-finite verb forms.
+> The verb form *kävelemään* literally means 'into walking', just as *Jyväskylään* means 'into (the town of) Jyväskylä'. Both forms contain the illative case ending of -än meaning 'into'. When complex sentences are formed, Finnish makes more use than English of such inflected non-finite verb forms.
 >
-> The grammatical object in Finnish is marked by a case ending. In the two following sentences the endings -n, -t, -a indicate 'this word is the object of the sentence' and tell something about its definiteness or indefiniteness. The rules governing the use of these endings are fairly complex.
+> The grammatical object in Finnish is marked by a case ending. In the two following sentences the endings *-n*, *-t*, *-a* indicate 'this word is the object of the sentence' and tell something about its definiteness or indefiniteness. The rules governing the use of these endings are fairly complex.
 >
-> - _(Minä) ostan kirja/n ~ kirja/t ~ kirjo/j/a._ I (shall) buy a/the book ~ the books ~ books.
-> - _Tuomas näki auto/n ~ auto/t ~ auto/j/a._ Tuomas saw a/the car ~ the cars ~ cars.
+> - *(Minä) ostan kirja/n ~ kirja/t ~ kirjo/j/a.* I (shall) buy a/the book ~ the books ~ books.
+> - *Tuomas näki auto/n ~ auto/t ~ auto/j/a.* Tuomas saw a/the car ~ the cars ~ cars.
 
 ## Grammatical overview
 
 Main stress is fixed on the first syllable but it is not as strong as in English or Russian to the point of causing reduction of unstressed vowels. Finnish also differentiates between short and long sounds. Short sounds are expressed in print as single vowels or consonants. Long sounds are expressed in print as geminate vowels or consonants. Sandhi or changes of sounds at boundaries dividing words or morphemes is widespread in Finnish but rarely marked in writing. Changes in intonation can be used when emphasizing desired elements in a sentence.
 
-Finnish pronunciation is also affected by vowel harmony and consonant gradation. Vowel harmony is the principle where back vowels (i.e. a, o, u) do not occur in roots which consist of certain front vowels (i.e. ä, ö, y). The front vowels e and i can however occur in any word, regardless of the quality of its vowels. In compound words however, the principle of vowel harmony may appear violated, but analysis of a compound’s roots will show that each root adheres to the principle of vowel harmony. Vowel harmony may be violated outright in internationalisms regardless of whether they're compound words or not (e.g. _amatööri_ "amateur", _Olympialaiset_ "Olympic Games").
+Finnish pronunciation is also affected by vowel harmony and consonant gradation. Vowel harmony is the principle where back vowels (i.e. *a*, *o*, *u*) do not occur in roots which consist of certain front vowels (i.e. *ä*, *ö*, *y*). The front vowels *e* and *i* can however occur in any word, regardless of the quality of its vowels. In compound words however, the principle of vowel harmony may appear violated, but analysis of a compound’s roots will show that each root adheres to the principle of vowel harmony. Vowel harmony may be violated outright in internationalisms regardless of whether they're compound words or not (e.g. *amatööri* "amateur", *Olympialaiset* "Olympic Games").
 
-Consonant gradation can occur when the consonants k, p, and t begin the final syllable of a stem or root. The result of consonant gradation is a change in the quality or quantity of k, p or t (technically speaking, the addition of certain suffixes to that stem or root change the final syllable to an open one, or a short closed one, and thus cause consonant gradation with k, p or t)
+Consonant gradation can occur when the consonants *k*, *p*, and *t* begin the final syllable of a stem or root. The result of consonant gradation is a change in the quality or quantity of *k*, *p* or *t* (technically speaking, the addition of certain suffixes to that stem or root change the final syllable to an open one, or a short closed one, and thus cause consonant gradation with *k*, *p* or *t*)
 
 E.g.
 
-- _aikoa_ “to intend”; _aiomme_ “we intend” (_-k-_ in aikoa changes to zero (i.e. _-k-_ disappears) because the present tense suffix for the 1st person plural _-mme_ caused gradation of the hypothetical stem _aiko-_)
+- _aikoa_ “to intend”; _aiomme_ “we intend” (_-k-_ in *aikoa* changes to zero (i.e. _-k-_ disappears) because the present tense suffix for the 1st person plural _-mme_ caused gradation of the hypothetical stem _aiko-_)
 - _kauppa “a/the store”_; _kaupassa_ “in a/the store” (_-pp-_ in _kauppa_ changes to _-p-_ in _kaupassa_ because the inessive suffix _-ssa_ caused gradation of the hypothetical stem _kauppa-_)
 - _lähteä_ “to leave”; _lähden_ “I leave” (_-t-_ in _lähteä_ changes to _-d-_ in _lähden_ because the present tense suffix for the 1st person singular _-n_ caused gradation of the hypothetical stem _lähte-_)
-- _sänky_ “bed”; _sängyllä_ “on a/the bed” (_-k-_ of _-nk-_ in _sänky_ changes to _-g-_ of _-ng-_ in _sängyllä_ because the adessive suffix )-llä_ caused gradation of the hypothetical stem _sänky-_)
+- _sänky_ “bed”; _sängyllä_ “on a/the bed” (_-k-_ of _-nk-_ in _sänky_ changes to _-g-_ of _-ng-_ in _sängyllä_ because the adessive suffix *-llä* caused gradation of the hypothetical stem _sänky-_)
 - _ymmärtää_ “to understand”; _ymmärrätte_ “you understand” (2nd person plural or formal 2nd person singular) (_-t-_ of _-rt-_ in _ymmärtää_ changes to _-r-_ of _-rr-_ in _ymmärrätte_ because the present tense suffix for the 2nd person plural _-tte_ caused gradation of the hypothetical stem _ymmärtä-_)
 
 Finnish has four tenses (present, imperfect, perfect and pluperfect), two voices (active and passive), two numbers (singular and plural), and six moods (indicative, conditional, imperative, optative, potential, eventive). The last three moods however are either archaic or rarely used in speech. There are also four forms for the infinitive (some sources show five such forms). In addition, it does not use separate pronouns for “he” and “she”.
@@ -121,9 +121,9 @@ One area of Finnish grammar that may be initially difficult to learn or grasp is
 
 In brief, the accusative as used in an inflecting language such as German or Latin can be expressed in Finnish with either nominative, accusative (personal pronouns only), genitive or partitive. The choice of case ending depends on how it aligns with the criteria above.
 
-In a related sense, this also affects how Finnish treats the complement of olla “to be”. The complement can be in nominative or partitive - again depending on how it aligns with some of the criteria above.
+In a related sense, this also affects how Finnish treats the complement of *olla* “to be”. The complement can be in nominative or partitive - again depending on how it aligns with some of the criteria above.
 
-Use of the partitive plural may also be initially difficult for foreigners to master since the required plural infix _-i-_ can cause changes to the stem which can be difficult to predict without some drilling or revision. The genitive plural is described in Fred Karlsson’s guide _Finnish: An Essential Grammar_ as the most complex of Finnish case forms. The suffixes for genitive plural can be attached to a stem based on the partitive plural or a stem based on the genitive singular. The choice of stem depends on the declensional class of the word.
+Use of the partitive plural may also be initially difficult for foreigners to master since the required plural infix _-i-_ can cause changes to the stem which can be difficult to predict without some drilling or revision. The genitive plural is described in Fred Karlsson’s guide “Finnish: An Essential Grammar” as the most complex of Finnish case forms. The suffixes for genitive plural can be attached to a stem based on the partitive plural or a stem based on the genitive singular. The choice of stem depends on the declensional class of the word.
 
 Spelling is relatively phonemic (each grapheme corresponds to just one meaningful sound) but rarely transcribes sandhi as mentioned earlier. The alphabet is influenced by the Swedish alphabet. Conventions that may be unfamiliar to speakers of English are:
 
@@ -151,6 +151,7 @@ Here are some hints for non-Finns that may help with grasping Finnish.
     - "Tomorrow Marko goes to Kuopio."<br>
       _Huomenna Marko menee Kuopioon._ (Finnish)<br>
       _Morgen fährt Marko nach Kuopio._ (German)
+      
     - "I have bought a book."<br>
       _Minä olen ostannut kirjan._ (Finnish)<br>
       _Ich habe ein Buch gekauft._ (German)
@@ -161,6 +162,7 @@ Here are some hints for non-Finns that may help with grasping Finnish.
     - "I'm drinking (some) beer."<br>
       _Mä juon olutta._ (Finnish - _olutta_ is partitive of _olut_)<br>
       _Ma joon õlut._ (Estonian - _õlut_ is partitive of _õlu_)
+      
     - "I'll drink (up) a/the beer."<br>
       _Mä juon oluen._ (Finnish - _oluen_ is genitive of _olut_)<br>
       _Ma joon õlle (ära)._ (Estonian - _õlle_ is genitive of _õlu_)
@@ -173,6 +175,7 @@ Here are some hints for non-Finns that may help with grasping Finnish.
       _Onko autosi punainen?_ (Standard Finnish)<br>
       _Onks sun auto punane?_ (Colloquial Finnish)<br>
       _Kas su auto on punane?_ (Estonian)
+      
     - "Why will they give to me the letter?"<br>
       _Miksi he antavat minulle kirjeen?_ (Standard Finnish)<br>
       _Miks ne antaa mulle kirjeen?_ (Colloquial Finnish)<br>
@@ -186,10 +189,12 @@ Here are some hints for non-Finns that may help with grasping Finnish.
       _Ystäväni oli työssä kirjakaupassa._ (Standard Finnish)<br>
       _Mun ystävä oli töissä kirjakaupas._ (Colloquial Finnish)<br>
       _Mu sõbra töötas raamatupoes._ (Estonian)
+      
     - "Take your dog along!"<br>
       _Ota koirasi mukaan!_ (Standard Finnish)<br>
       _Ota sun koira mukaan!_ (Colloquial Finnish)<br>
       _Võta su koer kaasa!_ (Estonian)
+      
     - "I'm reading a newspaper."<br>
       _Luen sanomalehteä_ (Standard Finnish)<br>
       _Mä luen sanomalehtee_ (Colloquial Finnish)<br>
@@ -211,12 +216,12 @@ In addition to words common to other Uralic languages, Finnish has a sizeable st
 
 E.g.
 
-- _hattu_ ("hat"); _helppo_ ("easy" – Cf. “help”); _pukki_ ("billy-goat" – Cf. “buck”); _mallas_ ("malt"); _neula_ ("needle"); _peruna_ ("potato" – Cf. Swedish jordpäron); _sairas_ ("sick" – Cf. “sore”); _sunnuntai_ ("Sunday"); _torstai_ ("Thursday")
+- _hattu_ ("hat"); _helppo_ ("easy" – Cf. “help”); _pukki_ ("billy-goat" – Cf. “buck”); _mallas_ ("malt"); _neula_ ("needle"); _peruna_ ("potato" – Cf. Swedish *jordpäron*); _sairas_ ("sick" – Cf. “sore”); _sunnuntai_ ("Sunday"); _torstai_ ("Thursday")
 - There are also loanwords from Balto-Slavonic and Saamic languages.
 
 E.g.
 
-- _halla_ ("frost" – Cf. Lithuanian šalna); _iltti_ ("shoe tongue" - Cf. Northern Saami alddas); _raamattu_ ("bible" – Cf. Russian грамота "certificate; document; reading and writing")
+- _halla_ ("frost" – Cf. Lithuanian šalna); _iltti_ ("shoe tongue" - Cf. Northern Saami *alddas*); _raamattu_ ("bible" – Cf. Russian *грамота* "certificate; document; reading and writing")
 - English has recently become an important source of loanwords in Finnish (especially in slang).
 
 E.g.
@@ -225,7 +230,7 @@ E.g.
 
 ## Literature / Media / Film / Music
 
-For the learner of Finnish, there is plenty authentic material from Finnish culture that could enhance or enrich the learning experience.
+For the learner of Finnish, there is plenty of authentic material from Finnish culture that could enhance or enrich the learning experience.
 
 Finnish literature as a “high” art form is relatively young as the literary language was standardized in the 19th century. In the past, folklore was the primary means of literary expression, and its most famous example is “Kalevala” (1835) which is an edited compilation of myths and folk tales. It became a symbol of emerging Finnish nationalism in the 19th century and became regarded as the Finnish national epic. Its influence went beyond Finland and was claimed by J.R.R. Tolkien to have been the inspiration for some of the characters, themes and constructed languages in “Silmarillion” and “Lord of the Rings”
 
@@ -237,7 +242,7 @@ A music lover who is learning Finnish can use Finnish songs to enhance understan
 
 ## Learning material: Books
 
-1. _Teach Yourself Finnish_ (Terttu Leney)
+1. Teach Yourself Finnish (Terttu Leney)
 
     - It comes with two CDs and a textbook and costs about $25 US on Amazon.
     - What I enjoy about this course is that it has lively dialogues, a user-friendly presentation to grammar. The back of the book contains the answer key, some appendices on Finnish inflection and small bidirectional word lists.
@@ -245,7 +250,7 @@ A music lover who is learning Finnish can use Finnish songs to enhance understan
     - Another shortcoming is that several of the dialogues are not recorded. This is especially noticeable in the later chapters when only one dialogue out of several in the chapter is on the CD.
     - A minor shortcoming of this course is the emphasis on situations encountered more frequently by tourists (e.g. making hotel reservations, cashing travellers’ cheques, shopping). This aspect may irk some users who wish to learn Finnish for “less practical” reasons. In addition, the course does not spend much time discussing colloquial Finnish.
 
-2. _Colloquial Finnish_ (Daniel Abondolo)
+2. Colloquial Finnish (Daniel Abondolo)
 
     - It comes with two CDs or cassettes and a textbook and costs about $35 US on Amazon.
     - The course follows the pattern of other books in the “Colloquial” series with chapters usually containing dialogues, some notes on grammar and exercises. Answers and word lists (English-to-Finnish and vice-versa) come at the end of the book.
@@ -257,13 +262,13 @@ A music lover who is learning Finnish can use Finnish songs to enhance understan
     - Lastly I was rather annoyed by the CDs containing so much in English with the narrator (Abondolo himself?) either paraphrasing some of the grammatical notes or reading aloud the dialogues' English preambles as printed in the textbook. This habit can be as grating as presenters reading Powerpoint slides verbatim which imparts nothing extra to the audience apart from letting the audience hear the presenter's voice. Consequently the amount of audio in Finnish is less than one would think given two CDs holding roughly two hours' of audio in total.
     - This course left me overall with mixed feelings and seems reflective of the author’s attempt to make a name for himself among other authors of Finnish courses. On one hand, “Colloquial Finnish” appears to live up to its title thanks to the preponderance of informal register in its dialogues. Yet it counteracts this trait of teaching the language of the average Finn with verbose grammatical explanations and esoteric academic notation. The only value of the course would be for advanced students who want some structured practice with the colloquial register and so are able to skim over Abondolo's idiosyncratic explanations thanks to their having already gained a sound understanding of basic Finnish grammar in earlier studies.
 
-3. _Beginner’s Finnish_ (Agi Risko)
+3. Beginner’s Finnish (Agi Risko)
 
     - It comes as a textbook with 2 CDs and costs about $25 US on Amazon
     - The course is somewhat similar to “Teach Yourself Finnish”. Each chapter begins with a dialogue followed by an English translation. A helpful feature that I found was that there are short thematic lists of fixed or idiomatic expressions. Afterwards there is a list of vocabulary and then notes on grammar before ending with some exercises. The end of the book also contains a key to the exercises.
     - While the course does not overwhelm the user with as much information per chapter as “Teach Yourself Finnish”, it still suffers like that course from providing a rather small amount of exercises.
 
-4. _Mastering Finnish_ (Börje Vähämäki)
+4. Mastering Finnish (Börje Vähämäki)
 
     - It comes as a textbook with 2 CDs and costs about $50 US on Amazon
     - This is an extended reorganization/repackaging of material that Vähämäki was using when teaching at the University of Minnesota and University of Toronto
@@ -271,7 +276,7 @@ A music lover who is learning Finnish can use Finnish songs to enhance understan
     - The notes on grammar are dry but thorough and coming from a professor, tend to be wordy and use linguistic jargon. However they are structured well enough for a motivated beginner to put off buying a dedicated reference manual for Finnish grammar until somewhat later in his/her studies.
     - Whatever its flaws, “Mastering Finnish” is still the primary textbook in some beginners’ courses of Finnish at North American universities.
 
-5. _Finnish for Foreigners_ Vols. 1 and 2 (Maija-Hellikki Aaltio)
+5. Finnish for Foreigners Vols. 1 and 2 (Maija-Hellikki Aaltio)
 
     - For a someone wishing to learn Finnish independently, this is one of the better courses available. Its cost can vary since used copies of the books are available. The most reliable if not more expensive way to get the course is to buy it new from Amazon. The usual cost for both volumes combined is about $300 US but it may be possible to buy them at a lower price from Audio Forum.
     - The first volume is for beginners and consists of a textbook, workbook, book of oral drills, and 10 cassettes or CDs. The second volume assumes completion of the first one and consists of a textbook, workbook and 3 cassettes or CDs.
@@ -280,11 +285,11 @@ A music lover who is learning Finnish can use Finnish songs to enhance understan
     - The course may seem slightly old-fashioned as it was last edited in 1987, and what is available nowadays is a reprint.
     - A couple of quibbles are that it doesn’t introduce very much in the way of colloquial language in the latter half of the course (although it does include notes and examples throughout the book that compare standard forms with colloquial ones), and the very few exercises which request the participation of a fellow student suggest that it was originally designed to be used in a classroom.
 
-6. _Finnish for Foreigners Vol. 3_ (Maija-Hellikki Aaltio)
+6. Finnish for Foreigners Vol. 3 (Maija-Hellikki Aaltio)
 
     - This is a graded reader to supplement the first two volumes of _Finnish for Foreigners_.
 
-7. _Basic Course in Finnish_ (Meri Lehtinen)
+7. Basic Course in Finnish (Meri Lehtinen)
 
     - It comes with a textbook and 32 cassettes
     - This is a very comprehensive Finnish course produced by Indiana University during the Cold War and whose approach is similar to FSI’s “Basic” courses with plenty of drills and dialogues. This course is meant for those with plenty of motivation and discipline.
@@ -293,7 +298,7 @@ A music lover who is learning Finnish can use Finnish songs to enhance understan
     - Indiana University has posted the course's audio as .mp3 files on the website of its language course archives. See the subsection “Online material and links to information of interest” below.
     - A Finnish-American, Gregory S. Isola, apparently obtained permission in 2004 from Meri Lehtinen to publish a condensed and updated version of this course. Mr. Isola expected to complete his work by the end of 2010\. See the subsection “Online material and links to information of interest” below for Mr. Isola’s website and contact information.
 
-8. _FSI Conversational Finnish_ (Aili Rytkönen-Bell & Augustus Koski)
+8. FSI Conversational Finnish (Aili Rytkönen-Bell & Augustus Koski)
 
     - This is a somewhat newer course from FSI compared to most publicly-available FSI courses in the “Basic” series.
     - Because of the course’s association with FSI, it is held to be in the public-domain in the USA.
@@ -309,235 +314,236 @@ A music lover who is learning Finnish can use Finnish songs to enhance understan
     - Nevertheless, the notes on Finnish grammar are detailed and helpful, while the variety of exercises is wide. They range from substitution or transformation drills, to listening comprehension exercises, dictations, and acting exercises. Another helpful feature is that the textbook has exercises devoted to developing at least passive command of colloquial Finnish by using juxtaposed short dialogues in both standard and colloquial registers. Answer keys come with most exercises, including ones for listening comprehension.
     - The appendices in the textbook contain charts and lists of inflectional patterns, as well as a master list of all vocabulary taught which is in turn linked to the specific list of the relevant chapter.
 
-9. _Suomen kielen alkeisoppikirja_ (Anna-Liisa Lepäsmaa & Leena Silfverberg) [textbook]<br>
-    _Harjoituskirja suomen kielen perusopetusta varten_ (Leena Silfverberg) [workbook]
+9. Suomen kielen alkeisoppikirja (Anna-Liisa Lepäsmaa & Leena Silfverberg) [textbook]<br>
+    Harjoituskirja suomen kielen perusopetusta varten (Leena Silfverberg) [workbook]
 
     - In its complete form, this is a set of textbook, workbook and two CDs for beginning students. The cost of all components is roughly 100 Euros.
     - This is broadly similar to “Finnish for Foreigners Vol. 1” by Maija-Hellikki Aaltio (see 5)) but is better suited for use in a classroom than by the independent learner as the material and explanations are entirely in Finnish and there is no answer key to the exercises. The exercises are mainly fill-in-the blank, substitution or transformation drills.
 
-10. _Suomen kielen jatko-oppikirja_ (Leena Silfverberg) [textbook]<br>
-    _Harjoituskirja suomen kielen jatko-opetusta varten_ (Leena Silfverberg) [workbook]
+10. Suomen kielen jatko-oppikirja (Leena Silfverberg) [textbook]<br>
+    Harjoituskirja suomen kielen jatko-opetusta varten (Leena Silfverberg) [workbook]
 
     - In its complete form, this is a set of textbook and workbook for advanced students. The cost of all components is about 70 Euros
     - This is broadly similar to “Finnish for Foreigners Vol. 2” by Maija-Hellikki Aaltio (see 5)) and covers grammar that more often occurs in writing than in speech. However like "Suomen kielen alkeisoppikirja" and "Harjoituskirja suomen kielen perisopetusta varten", this set is better suited for use in a classroom than by the independent learner as the material and explanations are entirely in Finnish and there is no answer key to the exercises. The exercises are mainly fill-in-the blank, substitution or transformation drills.
     - As far as I can tell, no CDs come with the course.
 
-11. _Kato hei!_ (Maarit Berg & Leena Silfverberg)
+11. Kato hei! (Maarit Berg & Leena Silfverberg)
 
     - This is a course for beginners in colloquial Finnish and comprises a textbook and CD. The cost altogether is about 100 Euros with the textbook costing roughly 45 Euros.
     - In a certain way this is better than Abondolo's “Colloquial Finnish” (see 2)) as it doesn't use unorthodox explanations or conventions. However this course is not as suitable as “Colloquial Finnish” for the independent beginning learner as its explanations are in Finnish only.
 
-12. _Finn Talk, yksi, kaksi, kolme: yks, kaks, kolm (Part I)_ (Terttu Leney & Liisa Needham)<br>
-    _Finn Talk, neljä, viisi, kuusi: neljä, viis, kuus (Part II)_ (Terttu Leney & Liisa Needham)
+12. Finn Talk, yksi, kaksi, kolme: yks, kaks, kolm (Part I) (Terttu Leney & Liisa Needham)<br>
+    Finn Talk, neljä, viisi, kuusi: neljä, viis, kuus (Part II) (Terttu Leney & Liisa Needham)
 
     - Each part comprises a textbook and two CDs and are the materials used in Finnish classes by Finn Guild in the UK. Finn Guild sells each part for roughly 30 pounds (see the subsection “Online material and links to information of interest” below).
     - Part I is meant for beginners while Part II is meant for advanced students with the material teaching both standard and colloquial Finnish. There are answer keys to the exercises while the CDs contain the dialogues in their standard and colloquial versions.
 
-13. _Yksi, kaksi, kolme 1\. Finnisch für Deutschsprachige_ (Senja Riekkinen-Gebbert)<br>
-    _Yksi, kaksi, kome 2\. Finnisch für Deutschsprachige_ (Senja Riekkinen-Gebbert)<br>
-    _Yksi, kaksi, kolme 3\. Finnisch für Deutschsprachige_ (Senja Riekkinen-Gebbert)
+13. Yksi, kaksi, kolme 1. Finnisch für Deutschsprachige (Senja Riekkinen-Gebbert)<br>
+    Yksi, kaksi, kolme 2. Finnisch für Deutschsprachige (Senja Riekkinen-Gebbert)<br>
+    Yksi, kaksi, kolme 3. Finnisch für Deutschsprachige (Senja Riekkinen-Gebbert)
 
-    - This series is published in German and despite the vaguely similar title to _Finn Talk, yksi, kaksi, kolme: yks, kaks, kolm_ is a different course altogether.
+    - This series is published in German and despite the vaguely similar title to “Finn Talk, yksi, kaksi, kolme: yks, kaks, kolme”, is a different course altogether.
     - The first two volumes of this old series form a smooth progression. A new edition of the first volume now exists and has more chapters and a bit more content. They have several easy but short dialogues with some exercises asking the student to write a postcard or similar. Vocabulary is introduced gradually and overall these two books can be used for self-learning.
     - An audio CD and answer key are available if needed (or just the whole package) for each volume (for the first volume this applies to the older version. The new version of the first book comes with the CD and answer key). Each kit costs about 30 to 40 Euros, whereas each book on its own costs about 25 Euros.
     - In the third volume every chapter has a fairy tale adapted for learners. The fairy tales are each 3-6 pages long. The new vocabulary might not be overly useful considering that one wouldn't have learned so many words in the first two volumes.
     - Furthermore, the third volume is noticeable step higher than the second volume. One should definitely study some other material in between to get used to reading (e.g. news). On the other hand, the book is rather independent, and can be used by an advanced student who has not used the first two books.
     - Phrases with infinitives or participles are introduced such that the learner would gain fairly extensive passive exposure to them before being assigned to build and use these forms. That's not necessarily invalid but it's noticeably different from the approach in other coursebooks.
 
-14. _From Start to Finnish_ (Leila White)
+14. From Start to Finnish (Leila White)
 
     - This is a beginners' course comprising a textbook and CD. It costs around 100 Euros for the kit. However it is possible to buy just the textbook for about 45 Euros and use the audio which is available without charge for listening at the course's website. See the subsection “Online material and links to information of interest” below for the website's URL.
     - There is also a teacher’s manual with additional material but it is not essential to the learner.
     - Despite the somewhat cute title, the course is by no means comprehensive and it teaches basic grammar and high-frequency vocabulary in small doses (40 chapters in all).
     - Each chapter begins with a short dialogue or monologue followed by a list of vocabulary, brief notes on grammar and concludes with a few exercises. There is also an appendix with the answer key.
 
-15. _Suomen Mestari 1_ (Sonja Gehring & Sanni Heinzmann)<br>
-    _Suomen Mestari 2_ (Sonja Gehring & Sanni Heinzmann)<br>
-    _Suomen Mestari 3_ (Sonja Gehring, Sanni Heinzmann, Sari Päivärinne & Taija Udd)
+15. Suomen Mestari 1 (Sonja Gehring & Sanni Heinzmann)<br>
+    Suomen Mestari 2 (Sonja Gehring & Sanni Heinzmann)<br>
+    Suomen Mestari 3 (Sonja Gehring, Sanni Heinzmann, Sari Päivärinne & Taija Udd)
+    Suomen Mestari 4 (Sonja Gehring, Sanni Heinzmann, Sari Päivärinne & Taija Udd)
 
     - Each volume consists of a textbook and audio. The audio of each is available as a pair of CDs with a set of a textbook plus its audio costing about 120 Euros. As with “From Start to Finnish”, it is possible to buy just the textbooks (about 45 Euros each) and use the audio which is available without charge for listening at the course's website. See the subsection “Online material and links to information of interest” below for the website's URL.
     - There is also a teacher’s manual with additional material but it is not essential to the learner.
-    - The volumes are in Finnish only and meant to be used sequentially in a classroom with the first, second and third part suitable for students at A1, A2.1 and A2.2 respectively on the CEFR scale.
+    - The volumes are in Finnish only and meant to be used sequentially in a classroom with the first, second and third part suitable for students at A1, A2.1, A2.2, and B1 respectively on the CEFR scale.
     - Particularly motivated learners could easily use this series on their own if they're not intimidated by the series' total reliance on Finnish.
     - Each volume of “Suomen Mestari” has plenty of exercises and an answer key but the vocabulary lists require the user to supply a translation (i.e. consult a Finnish-non-Finnish bilingual dictionary. - Notes on grammar are short and the authors rely on charts, tables or illustrations with example sentences to demonstrate the grammar rather than textual explanations. One would thus need to refer to reference material or native speakers for a fuller explanation of the grammar that's being taught.
     - The course's being in Finnish only means that it's usable by any learner of Finnish with the help of a teacher and/or reference material in the learner's target language.
-    - In “Suomen Mestari 3”, all dialogues are in colloquial Finnish thus familiarizing the advanced beginner or emerging intermediate student with how Finns typically speak to each other.
+    - In “Suomen Mestari 3” and “Suomen Mestari 4”, all dialogues are in colloquial Finnish thus familiarizing the advanced beginner or emerging intermediate student with how Finns typically speak to each other.
 
-16. _Kuulostaa hyvältä_ - Sounds Good (Lili Ahonen) [Finnish-only volume]<br>
-    _Sounds Good_ - Kuulostaa hyvältä (Lili Ahonen) [English volume]
+16. Kuulostaa hyvältä - Sounds Good (Lili Ahonen) [Finnish-only volume]<br>
+    Sounds Good - Kuulostaa hyvältä (Lili Ahonen) [English volume]
 
     - This is a two-volume course for beginners with a DVD of the dialogues and narratives. The total cost of all parts is around 90 Euros with each textbook costing approximately 25 Euros. The books sometimes appear second-hand on Amazon Marketplace but prices vary.
     - One volume is in Finnish only and contains all of the transcripts of the video and exercises, while the other is in English containing explanations of grammar, translations of the transcripts and the answer key.
     - This course is atypical among its competitors in that it uses video rather than audio while still adhering to the typical sequence of dialogues accompanied by exercises and explanations. I found this to be a nice touch and especially found the videos done in Helsinki to bring a smile of recognition after having visited the city several times. Despite the emphasis on learning Finnish for informal and social settings, all dialogues are in standard Finnish in line with pedagogical practice. This however makes everyone sound a little stilted and for me is a bit funny when seeing the main characters who are all in their 20s and friends speak to each other regularly in this bookish way.
     - Even if one has just the Finnish-only volume and the video, he/she can get some benefit from the course with the help of a native speaker of Finnish to get explanations of grammar and give feedback on one's answers to the exercises.
 
-17. _Hei! Moi! Terve!_ (Annaliisa Kühn)
+17. Hei! Moi! Terve! (Annaliisa Kühn)
 
     - This is a textbook on the German market published in 2016 and includes a CD of the dialogues.
     - It has received good reviews and seems quite promising. Unfortunately there's only a beginner's book (meant for CEFR A1), so one has to use other material later on.
     - It costs roughly 25 Euros.
 
-18. _Hei Suomi!_ (Ritva Bargsten & Liisa Voßschmidt)
+18. Hei Suomi! (Ritva Bargsten & Liisa Voßschmidt)
 
     - This is a rather old 3-volume course for German-speaking learners with each volume consisting of a textbook, workbook and solution manual.
     - Examples of the dated content include references to the Soviet Union and sentences betraying gender stereotypes. It also introduces a lot of vocabulary from the first chapter - some of it being extremely useless (e.g. "watershed") from what I've read.
     - The course seems to be out of print and may be difficult to obtain. Prices for each book vary between 10 and 50 Euros.
 
-19. _Finnisch für Sie_ (Marja-Liisa Steiner & Dietrich Aßmann)
+19. Finnisch für Sie (Marja-Liisa Steiner & Dietrich Aßmann)
 
     - This is an older textbook for German-speakers divided into 30 chapters. It's out of print and so would be difficult to obtain. However I have heard that the grammar lessons are well-structured.
     - Used copies are available on Amazon.de for at least 20 Euros apiece as of mid-May 2016.
 
-20. _PONS Power-Sprachtraining Finnisch_
+20. PONS Power-Sprachtraining Finnisch
 
     - This is a rather thin textbook in the PONS series for German-speaking beginners accompanied by a CD.
     - Nevertheless the grammar taught should be quite OK for extra practice. As it's fairly short, one should use more than this course. - It costs approximately 10 Euros on Amazon.de.
 
-21. _Grammatikübungsbuch Finnisch_ (Harald Molan)
+21. Grammatikübungsbuch Finnisch (Harald Molan)
 
     - This is a workbook for German-speaking learners with grammar exercises at a beginner's level, but would probably be useful for more advanced students too. Answer key is included and the second printing got a few corrections, so if possible take that one.
     - The price is approximately 20 Euros.
 
-22. _Grundwortschatz Finnisch_ (Harald Molan)
+22. Grundwortschatz Finnisch (Harald Molan)
 
     - This is a thematic guide of basic vocabulary with examples. It has been well-received and if one is looking for a Finnish-German list of essential vocabulary, this is the one to get! (similar books are not as good as this one, and sometimes seem to be incomplete compilations from Google Translate).
     - Each Finnish entry is presented such that adjectives/nouns are displayed with their respective forms in genitive singular, partitive singular and partitive plural. Each verb is shown with its endings in 1st person singular present and 1st person singular past, the past active participle and its conjugation class.
     - Sample pages of the book are available  [here](http://www.beck-shop.de/fachbuch/leseprobe/9783875485707_Excerpt_003.pdf).
     - The price is approximately 20 Euros.
 
-23. _Lextra - Finnisch - Sprachkurs_ (Ed. Gesine Goldammer, Anu Karjalainen et al.)
+23. Lextra - Finnisch - Sprachkurs (Ed. Gesine Goldammer, Anu Karjalainen et al.)
 
     - This is a German adaptation of "Teach Yourself Finnish" by Terttu Leney; many of the dialogues and much of the content are translated from the English original.
     - Unfortunately, it contains mistakes and isn't worth using. Every book listed above is better.
     - It costs around 20 Euros and the course's audio is available from Cornelsen's website as a free download in .mp3 format. See the subsection “Online material and links to information of interest” below for the website's URL.
 
-24. _Finnish Dictionary & Phrasebook_ (Ville Kataja)
+24. Finnish Dictionary & Phrasebook (Ville Kataja)
 
     - This is a small phrasebook and dictionary published by Hippocrene and has roughly 5 000 entries in its dictionary. It costs roughly $10 US on Amazon.
     - For a student of Finnish, the book has some value in being a phrasebook (i.e. lists of fixed or idiomatic expressions tied to certain situations) and that its Finnish-English glossary shows both the “strong” and “weak” grade of words. In other words, it shows the most commonly-used inflectional stem of a word alongside the “dictionary” form of a word. Knowing the inflectional stem will help when learning how to inflect a Finnish word properly.
 
-25. _Langenscheidt Universal Finnish Dictionary: Finnish-English/English-Finnish Dictionary_
+25. Langenscheidt Universal Finnish Dictionary: Finnish-English/English-Finnish Dictionary
 
     - This is a small dictionary that costs about $10 US on Amazon.
     - It's little more than a bi-directional word-list, with indication of idiomatic uses being largely absent. Each Finnish entry in the Finnish-English section has its approximate pronunciation transcribed using English conventions but no inflectional information or hints are given for the Finnish words.
 
-26. _Berlitz Pocket Dictionary: Finnish-English/English-Finnish Dictionary_
+26. Berlitz Pocket Dictionary: Finnish-English/English-Finnish Dictionary
 
     - This is a small dictionary that costs about $10 US on Amazon and is practically the same dictionary as Langenscheidt's Universal Finnish Dictionary mentioned above (Apa Publications which is part of Langenscheidt bought Berlitz Publishing in 2002).
 
-27. _Suomi-englanti-suomi sanakirja_ (Ilkka Rekiaro & Douglas Robinson – published by Gummerus)
+27. Suomi-englanti-suomi sanakirja (Ilkka Rekiaro & Douglas Robinson – published by Gummerus)
 
     - This is a medium-sized (roughly 65,000 entries) bi-directional dictionary between English and Finnish. It costs approximately $60 US on Amazon.
     - Most entries show idiomatic uses and several translations but none of the Finnish entries include grammatical information or cross-references to lists of model words for declension or conjugation.
 
-28. _Suomi-englanti-suomi sanakirja_ (Raija Hurme - published by WSOY)
+28. Suomi-englanti-suomi sanakirja (Raija Hurme - published by WSOY)
 
     - This is another medium-sized (roughly 119,000 words in total) bi-directional dictionary between English and Finnish. It may be hard to find on Amazon, but most sellers offer it for around $70 US or 40 Euros.
     - As with the dictionary published by Gummerus above most entries show idiomatic uses and several translations but none of the Finnish entries include grammatical information or cross-references to lists of model words for declension or conjugation.
     - This dictionary is also available on a USB-flash drive for about 30 Euros.
 
-29. _Englanti-suomi suursanakirja_ (Raija Hurme)
+29. Englanti-suomi suursanakirja (Raija Hurme)
 
     - This is a larger (roughly 160,000 entries) dictionary of English-to-Finnish. It may be hard to find on Amazon but it can be bought from Finland for roughly 90 Euros.
     - Most entries show idiomatic uses and several translations but there is no inflectional information given for Finnish words.
     - This dictionary is available on CD-ROM as “Englanti-suomi CD-ROM suursanakirja”.
 
-30. _Uusi suomi-englanti suursanakirja_ (Raija Hurme)
+30. Uusi suomi-englanti suursanakirja (Raija Hurme)
 
     - This is a larger (roughly 160,000 entries) dictionary of Finnish-to-English. It may be hard to find on Amazon but it can be bought from Finland for roughly 90 Euros.
     - Most entries here show idiomatic uses and several translations but there is no inflectional information given for any of the entries.
     - This dictionary is available on CD-ROM as “Suomi-englanti CD-ROM suursanakirja”.
 
-31. _Suuri englanti-suomi sanakirja_ (published by Gummerus)
+31. Suuri englanti-suomi sanakirja (published by Gummerus)
 
     - This is a large dictionary (about 70,000 entries) of English to Finnish. It may be hard to find on Amazon but it can be bought in Finland for roughly 80 Euros (although it can be sometimes found on sale for as low as 17 Euros (!))
     - When compared to "Englanti-suomi suursanakirja" in 29), Gummerus' dictionary gives better treatment of idiomatic uses with example sentences in the headwords. However it also suffers from the same problem in that it doesn't give inflectional information for Finnish words.
 
-32. _Langenscheidt Universal Finnisch-Deutsch/Deutsch-Finnisch_
+32. Langenscheidt Universal Finnisch-Deutsch/Deutsch-Finnisch
 
     - A pocket-sized dictionary designed for Germans learning Finnish.
     - All words affected by consonant gradation are marked with an asterisk. Unfortunately it has not been updated for 16 years and contains only 30 000 words.
     - However its size makes it useful for travelling. For serious study, use one of the dictionaries published by WSOY or Gummerus.
     - The price is about 11 Euros.
 
-33. _Gummeruksen suomi-saksa-suomi sanakirja_ (Rolf Klemmt & Ilkka Rekiaro – published by Gummerus)
+33. Gummeruksen suomi-saksa-suomi sanakirja (Rolf Klemmt & Ilkka Rekiaro – published by Gummerus)
 
     - This is a medium-sized (roughly 60,000 entries) bi-directional dictionary between German and Finnish.
     - Most entries show idiomatic uses and several translations but none of the Finnish entries include grammatical information or cross-references to lists of model words for declension or conjugation.
     - The dictionary costs between 20 and 30 Euros with the lower prices often being in Finland (typical retail price in Finland is 17.95€ as of 2016).
 
-34. _Suomi-saksa-suomi sanakirja_ (Joachim Böger, Helmut Diekmann, Lenk Hartmut, Caren Schröder & Aino Kärnä – published by WSOY)
+34. Suomi-saksa-suomi sanakirja (Joachim Böger, Helmut Diekmann, Lenk Hartmut, Caren Schröder & Aino Kärnä – published by WSOY)
 
     - This is medium-sized (roughly 100,000 entries in total) bi-directional dictionary between German and Finnish.
     - As with the dictionary published by Gummerus above most entries show idiomatic uses and several translations but none of the Finnish entries include grammatical information or cross-references to lists of model words for declension or conjugation.
     - The dictionary's price varies between 20 and 60 Euros with the lower prices often being in Finland (typical retail price in Finland is 29.95€ as of 2016).
 
-35. _Nykysuomen sanakirja_ (edited by Suomalaisen Kirjallisuuden Seurassa – published by WSOY)
+35. Nykysuomen sanakirja (edited by Suomalaisen Kirjallisuuden Seurassa – published by WSOY)
 
     - This is large monolingual dictionary in three volumes (roughly 200 000 entries) which provides grammatical / inflectional information for each entry by making a cross-reference to the appropriate inflectional chart of a model word at the beginning of the dictionary.
     - This dictionary was last edited in 1961 and despite its age, is still treated by translators and educated Finns with a good deal of respect. It is also difficult to obtain, and nowadays it is most likely to be found in libraries of research universities.
 
-36. _Kielitoimiston sanakirja_ (edited by Kotimaisten kielten tutkimuskeskus)
+36. Kielitoimiston sanakirja (edited by Kotimaisten kielten tutkimuskeskus)
 
     - This is a large monolingual dictionary in three volumes (roughly 100 000 entries) which also provides grammatical / inflectional information of each entry by referencing each headword (where applicable) to a model-word and its inflected forms at the beginning of the dictionary. The cost of the dictionary is roughly 80 Euros. The version on CD-ROM costs roughly 120 Euros.
     - Since 2015 it is also available online as a searchable database. See the subsection “Dictionaries and other databases” below for the link.
     - The printed version of this dictionary is from 2006 and is based on an electronic version from 2004\. Despite its recent publication, this dictionary is meant to complement rather than replace the older “Nykysuomen sanakirja” mentioned above.
     - This dictionary can be ordered from the publisher or from Finnish bookstores. See the subsection “Dictionaries and other databases” below
 
-37. _Oikeeta Suomee. Suomen puhekielen sanakirja_ (Dictionary of Spoken Finnish) (Vesa Jarva & Timo Nurmi)
+37. Oikeeta Suomee. Suomen puhekielen sanakirja (Dictionary of Spoken Finnish) (Vesa Jarva & Timo Nurmi)
 
     - This is a useful albeit expensive dictionary for those learning Finnish that comprises roughly 7,000 entries of spoken/colloquial Finnish.
     - The dictionary is mainly in Finnish but it includes translations of the headword into English and example sentences of the headword in use.
     - It costs roughly 35 Euros.
 
-38. _Suomen sanakirja opiskelijoille ja ulkomaalaisille_ (Finnish Dictionary for Students and Foreign Learners) (Timo Nurmi)
+38. Suomen sanakirja opiskelijoille ja ulkomaalaisille (Finnish Dictionary for Students and Foreign Learners) (Timo Nurmi)
 
     - This is another useful but expensive dictionary for learners of Finnish that comprises roughly 17,000 words and their inflections.
     - The dictionary is entirely in Finnish and the inflectional information for each headword is presented adjacent to the heading. There's no cross-referencing of words to a table of model-words at the beginning of the dictionary.
     - It costs roughly 45 Euros.
 
-39. _Finnish dictionary for the language learner_ (Zsuzsanna Oinas)
+39. Finnish dictionary for the language learner (Zsuzsanna Oinas)
 
     - This is an useful but somewhat less expensive dictionary for learners of Finnish that comprises roughly 13,000 words and their core inflections.
     - The dictionary is Finnish to English and the inflectional information for each headword is presented adjacent to the heading.There's no cross-referencing of words to a table of model-words at the beginning of the dictionary.
     - The headwords in turn are divided by theme (e.g. travel, food) which may be an advantage to some learners.
     - It costs roughly 25 Euros.
 
-40. _MOT online sanakirja_
+40. MOT online sanakirja
 
     - They are VERY good online dictionaries and contain a very wide selection of words. They are also full of technical words. A student of a Finnish university should have access to them for free. Otherwise they are quite expensive. There are dictionaries for several languages available.
 
-41. _Finnish: An Essential Grammar_ (Fred Karlsson)
+41. Finnish: An Essential Grammar (Fred Karlsson)
 
     - This is a handy and user-friendly reference guide to Finnish grammar. It costs approximately $35 US on Amazon.
     - It is part of Routledge’s series of descriptive grammars meant for students learning how to use the target language.
 
-42. _Tarkista tästä_ (Hannele Jönsson-Korhola & Leila White)
+42. Tarkista tästä (Hannele Jönsson-Korhola & Leila White)
 
     - This is THE book for learners about case governance and complements (rektiot) in Finnish.
     - It's a list mainly of verbs but also some nouns and adjectives with examples showing case governance and/or required forms for complements. For example it not only shows that the complement of pitää takes elative case when translating "to like, be fond of" but it indicates this kind of information even when the complement is an infinitive or participle. For example it indicates that after aika "time", the complement is the first infinitive as in Nyt on aika lähteä "Now is the time to leave".
     - It's more or less the only book of it's kind and completely in Finnish. There's also "Rakastan sinua. Pidätkö sinä minusta" by the same authors which has similar content. However it covers only verbs whereas "Tarkista tästä" covers some nouns and adjectives in addition to verbs as already mentioned.- It costs about 40 Euros.
 
-**Interesting note for students of Finnish:** Getting a Finnish dictionary meant for non-English-speakers may be an inexpensive way to get a Finnish dictionary that shows inflectional information of Finnish words if the standard _Kielitoimiston sanakirja_ of 100,000 headwords in 36) under “Books” is too expensive at 80 Euros. For some reason bilingual Finnish dictionaries for speakers of English, French, Italian and Spanish do NOT provide inflectional information for Finnish words. However the following bilingual dictionaries do include such information for the Finnish words.
+**Interesting note for students of Finnish:** Getting a Finnish dictionary meant for non-English-speakers may be an inexpensive way to get a Finnish dictionary that shows inflectional information of Finnish words if the standard “Kielitoimiston sanakirja” of 100,000 headwords in 36) under “Books” is too expensive at 80 Euros. For some reason bilingual Finnish dictionaries for speakers of English, French, Italian and Spanish do NOT provide inflectional information for Finnish words. However the following bilingual dictionaries do include such information for the Finnish words.
 
 FINNISH-ESTONIAN
 
-1. Mägi, Ruth et al. (ed.) _Soome-eesti seletav sõnaraamat_. Tallinn: TEA Kirjastus, 2007\. (Finnish-Estonian explanatory dictionary, 50,000 headwords, ISBN-13 978-9985715178, 40-70 Euros, almost every Finnish headword conveniently has the inflectional stems standing adjacent to the headword itself)
-2. Pihel, Kalju & Arno Pikamäe (eds.) _Soome-eesti sõnaraamat_ (4th ed.). Tallinn: Valgus, 2007\. (Finnish-Estonian dictionary, 50,000 headwords, ISBN-13 978-9985680544, 20-30 Euros, almost every Finnish headword is cross-referenced to a model word in a table for inflections in the appendices)
-3. Vaba, Mari (ed.) _Soome-eesti / eesti-soome taskusõnastik_. Tallinn: TEA Kirjastus, 2003\. (Finnish-Estonian / Estonian-Finnish pocket dictionary, 30,000 headwords, ISBN-13 978-9985713402, 10-20 Euros, almost every Finnish headword conveniently has the inflectional stems standing adjacent to the headword itself)
-4. Valdek, Pall et al. (ed.) _Soome-eesti suursõnaraamat I-II_. Tallinn: Eesti Keele Sihtasutus, 2003\. (Large Finnish-Estonian dictionary, 90,000 headwords and entries, 2 volumes, ISBN-13 978-9985790021, 40-60 Euros, almost every Finnish headword is cross-referenced to a model word in a table for inflections in the appendices)
+1. Mägi, Ruth et al. (ed.) “Soome-eesti seletav sõnaraamat”. Tallinn: TEA Kirjastus, 2007\. (Finnish-Estonian explanatory dictionary, 50,000 headwords, ISBN-13 978-9985715178, 40-70 Euros, almost every Finnish headword conveniently has the inflectional stems standing adjacent to the headword itself)
+2. Pihel, Kalju & Arno Pikamäe (eds.) “Soome-eesti sõnaraamat” (4th ed.). Tallinn: Valgus, 2007\. (Finnish-Estonian dictionary, 50,000 headwords, ISBN-13 978-9985680544, 20-30 Euros, almost every Finnish headword is cross-referenced to a model word in a table for inflections in the appendices)
+3. Vaba, Mari (ed.) “Soome-eesti / eesti-soome taskusõnastik”. Tallinn: TEA Kirjastus, 2003\. (Finnish-Estonian / Estonian-Finnish pocket dictionary, 30,000 headwords, ISBN-13 978-9985713402, 10-20 Euros, almost every Finnish headword conveniently has the inflectional stems standing adjacent to the headword itself)
+4. Valdek, Pall et al. (ed.) “Soome-eesti suursõnaraamat I-II”. Tallinn: Eesti Keele Sihtasutus, 2003\. (Large Finnish-Estonian dictionary, 90,000 headwords and entries, 2 volumes, ISBN-13 978-9985790021, 40-60 Euros, almost every Finnish headword is cross-referenced to a model word in a table for inflections in the appendices)
 
 FINNISH-GERMAN
 
-- Katara, Pekka & Schellbach-Kopra, Ingrid (eds.) _Suomi-saksa suursanakirja (8\. painos)_. Helsinki, WSOYpro, 1997\. (Large Finnish-German dictionary, 100,000 headwords and entries, ISBN-13 978-9510214855, 90-110 Euros, almost every Finnish headword is cross-referenced to a model word in a table for inflections in the appendices)
+- Katara, Pekka & Schellbach-Kopra, Ingrid (eds.) “Suomi-saksa suursanakirja (8. painos)”. Helsinki, WSOYpro, 1997\. (Large Finnish-German dictionary, 100,000 headwords and entries, ISBN-13 978-9510214855, 90-110 Euros, almost every Finnish headword is cross-referenced to a model word in a table for inflections in the appendices)
 
 FINNISH-HUNGARIAN
 
-- Papp, István (ed.) _Finn-magyar kéziszótár_. Budapest: Akadémiai Kiadó, 1993\. (Finnish-Hungarian concise dictionary, 49,000 headwords, ISBN-13 978-9630564984, 15-50 Euros, almost every Finnish headword is cross-referenced to a model word in a table for inflections in the appendices)
+- Papp, István (ed.) “Finn-magyar kéziszótár”. Budapest: Akadémiai Kiadó, 1993\. (Finnish-Hungarian concise dictionary, 49,000 headwords, ISBN-13 978-9630564984, 15-50 Euros, almost every Finnish headword is cross-referenced to a model word in a table for inflections in the appendices)
 
 FINNISH-SWEDISH
 
-- Cantell, Ilse et al\. (ed\.) _Suomi-ruotsi suursanakirja (3\. tark\. p)_. Helsinki: WSOYpro, 2004\. (Large Finnish-Swedish Dictionary (3rd ed\.), 135,000 headwords, ISBN-13 978-9510247143, 90-110 Euros, almost every Finnish headword is cross-referenced to a model word in a table for inflections in the appendices)
+- Cantell, Ilse et al\. (ed\.) “Suomi-ruotsi suursanakirja (3\. tark\. p)”. Helsinki: WSOYpro, 2004\. (Large Finnish-Swedish Dictionary (3rd ed\.), 135,000 headwords, ISBN-13 978-9510247143, 90-110 Euros, almost every Finnish headword is cross-referenced to a model word in a table for inflections in the appendices)
 
 Students of Finnish who know any one of Estonian, German, Hungarian or Swedish are in luck as certain Finnish dictionaries meant specifically for them contain inflectional information of Finnish headwords. However all learners of Finnish can use these dictionaries if all that they're after are the inflectional stems of a Finnish word.
 
